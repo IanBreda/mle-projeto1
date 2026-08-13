@@ -1,0 +1,14 @@
+md5: 7ccf2e6dee48c632a831ca7325387dbc
+frozen: true
+deps:
+- path: dataset/9
+  repo:
+    url: https://github.com/petrobras/3W.git
+    rev: 45c7a9bc713656538e5179c5f2702cbf3beac5f0
+    rev_lock: 45c7a9bc713656538e5179c5f2702cbf3beac5f0
+outs:
+- md5: c93ef732a685fad8b968cb56346cf50d.dir
+  size: 332793069
+  nfiles: 207
+  hash: md5
+  path: '9'
